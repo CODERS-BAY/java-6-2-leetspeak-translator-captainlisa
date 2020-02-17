@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Please enter a text in capitals:");
+        System.out.println("Please enter a text in capital letters:");
         Scanner scan = new Scanner(System.in);
 
         char[] alphabet = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'};
